@@ -178,4 +178,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Disclaimer
 
-This API foundation was created with the assistance of Claude, an AI assistant by Anthropic.
+This API foundation was created with the assistance of Claude (v3.7), an AI assistant by Anthropic.
+For a full list of AI-created elements in this repository, contact me at https://github.com/Nettosh-f/GeneralProductAPI
