@@ -175,3 +175,7 @@ Before deploying to production, consider the following:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Disclaimer
+
+This API foundation was created with the assistance of Claude, an AI assistant by Anthropic.
